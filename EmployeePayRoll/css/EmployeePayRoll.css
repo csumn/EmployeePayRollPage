@@ -209,5 +209,8 @@ select {
         align-items: flex-start;
     }
 
+    .profile-radio-content {
+        flex-flow: wrap;
+    }
 
 }
